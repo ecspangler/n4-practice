@@ -21,6 +21,7 @@ def practice(set_number, split_lists):
     action = ""
 
     while True:
+
         for x in range(set_row_count):
             print("\n=================================================================")
             row = practice_set.iloc[x]
@@ -37,7 +38,10 @@ def practice(set_number, split_lists):
 
             print(row[practice_list[selected_index]])
 
-            action = input("\nEnter to see answer or \'q\' to quit this practice set: ")
+            action = input("\nEnter to see answer, \'s\' to scramble, or \'q\' to quit this set: ")
+            if action == "s":
+                practice_set = practice_set.sample(frac=1).reset_index(drop=True)
+                break
             if action == "q":
                 break
             else:
