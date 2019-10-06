@@ -21,7 +21,6 @@ def practice(set_number, split_lists):
     action = ""
 
     while True:
-
         for x in range(set_row_count):
             print("\n=================================================================")
             row = practice_set.iloc[x]
