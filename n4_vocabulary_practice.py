@@ -7,45 +7,14 @@ import glob
 import os
 import re
 
-numbers = re.compile(r'(\d+)')
+
 def numericalSort(value):
+    numbers = re.compile(r'(\d+)')
     parts = numbers.split(value)
     parts[1::2] = map(int, parts[1::2])
     return parts
 
-parser = argparse.ArgumentParser(description='Arg parser')
-parser.add_argument('--number_practice_sets', action="store", dest="number_practice_sets", type=int)
-parser.add_argument('--scramble', action="store_true", default=False)
-
-args = parser.parse_args()
-number_practice_sets = args.number_practice_sets
-full_vocab_list = pd.read_csv('vocab/N5-N4_vocab_list.csv', names=['kanji','hiragana','english'])
-row_count = len(full_vocab_list.index)
-vocab_file_path = "./vocab_lists"
-split_lists = []
-
-selection = input("\nEnter to generate practice sets, or \'prev\' to use previous: ")
-
-if selection == "prev":
-    number_practice_sets = 0
-
-    for file in sorted(glob.glob(os.path.join(vocab_file_path, "*.csv")),key=numericalSort):
-        print("Reading file:", os.path.splitext(os.path.basename(file))[0])
-        df = pd.read_csv(file)
-        split_lists.append(df)
-        number_practice_sets += 1
-else:
-    if args.scramble:
-        full_vocab_list = full_vocab_list.sample(frac=1).reset_index(drop=True)
-
-    split_lists = np.array_split(full_vocab_list,number_practice_sets)
-
-    for x in range(len(split_lists)):
-        file_path = vocab_file_path + "/vocab_list_" + str(x) + ".csv"
-        split_lists[x].to_csv(file_path,index=False)
-
-
-def practice(set_number):
+def practice(set_number, split_lists):
     practice_set = split_lists[int(set_number)]
     set_row_count = len(practice_set.index)
     print("\nPractice set",set_number,":",set_row_count,"words")
@@ -79,6 +48,37 @@ def practice(set_number):
             break
 
 
+parser = argparse.ArgumentParser(description='Arg parser')
+parser.add_argument('--number_practice_sets', action="store", dest="number_practice_sets", type=int)
+parser.add_argument('--scramble', action="store_true", default=False)
+
+args = parser.parse_args()
+number_practice_sets = args.number_practice_sets
+full_vocab_list = pd.read_csv('vocab/N5-N4_vocab_list.csv', names=['kanji','hiragana','english'])
+row_count = len(full_vocab_list.index)
+vocab_file_path = "./vocab_lists"
+split_lists = []
+
+selection = input("\nEnter to generate practice sets, or \'prev\' to use previous: ")
+
+if selection == "prev":
+    number_practice_sets = 0
+
+    for file in sorted(glob.glob(os.path.join(vocab_file_path, "*.csv")),key=numericalSort):
+        print("Reading file:", os.path.splitext(os.path.basename(file))[0])
+        df = pd.read_csv(file)
+        split_lists.append(df)
+        number_practice_sets += 1
+else:
+    if args.scramble:
+        full_vocab_list = full_vocab_list.sample(frac=1).reset_index(drop=True)
+
+    split_lists = np.array_split(full_vocab_list,number_practice_sets)
+
+    for x in range(len(split_lists)):
+        file_path = vocab_file_path + "/vocab_list_" + str(x) + ".csv"
+        split_lists[x].to_csv(file_path,index=False)
+
 while True:
     print("\n\nThere are", row_count, "vocabulary words in", number_practice_sets, "practice sets:")
     for x in range(0, number_practice_sets):
@@ -88,4 +88,4 @@ while True:
     if action == "exit":
         break
     else:
-        practice( action )
+        practice(action, split_lists)
