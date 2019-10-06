@@ -1,32 +1,26 @@
-kanji,hiragana,english
-呼ぶ,よぶ,"to call out,to invite"
-早い,はやい,early
-沸く,わく,"to boil, to grow hot,to get excited"
-客,きゃく,"guest,customer"
-堅/硬/固い,かたい,hard
-汚れる,よごれる,to get dirty
-広い,ひろい,"spacious,wide"
-社長,しゃちょう,company president
-,たて,"length,height"
-屋上,おくじょう,rooftop
-,あっち,over there
-結構,けっこう,"splendid,enough"
-六日,むいか,"six days, sixth day of the month"
-,チェック・する,to check
-消す,けす,"to erase,to turn off power"
-,はず,it should be so
-,もっと,more
-,パソコン,personal computer
-押し入れ,おしいれ,closet
-勉強,べんきょうする,to study
-黒,くろ,black
-吹く,ふく,to blow
-後ろ,うしろ,behind
-引く,ひく,to pull
-大きい,おおきい,big
-友達,ともだち,friend
-覚える,おぼえる,to remember
-為,ため,in order to
-牛肉,ぎゅうにく,beef
-経済,けいざい,"finance,economy"
-大勢,おおぜい,great number of people
+kanji,hiragana,english,kanji_required
+席,せき,seat,
+,ふろ,bath,
+法律,ほうりつ,law,
+必ず,かならず,"certainly,necessarily",
+黒,くろ,black,x
+左,ひだり,left hand side,
+お風呂,おふろ,bath,
+,いい/よい,good,
+研究,けんきゅう,research,
+洋服,ようふく,western-style clothes,x
+尋ねる,たずねる,to ask,
+肉,にく,meat,x
+台風,たいふう,typhoon,
+食べ物,たべもの,food,x
+,いつも,always,
+,つける,to turn on,
+歌う,うたう,to sing,
+無くなる,なくなる,"to disappear,to get lost",
+明い,あかるい,bright,x
+以下,いか,less than,x
+高校生,こうこうせい,high school student,
+,あの,that over there,
+込む,こむ,to include,
+八つ,やっつ,eight,x
+気分,きぶん,mood,

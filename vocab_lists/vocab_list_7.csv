@@ -1,33 +1,26 @@
-kanji,hiragana,english
-歌う,うたう,to sing
-熱,ねつ,fever
-晩御飯,ばんごはん,evening meal
-,おつり,"change from purchase, balance"
-姉,あね,(humble) older sister
-七日,なのか,"seven days,the seventh day"
-品物,しなもの,goods
-市民,しみん,citizen
-,たぶん,probably
-見つける,みつける,to discover
-隅,すみ,"corner,nook"
-靴下,くつした,socks
-確か,たしか,definite
-封筒,ふうとう,envelope
-珍しい,めずらしい,rare
-辞典,じてん,dictionary
-,マッチ,match
-僕,ぼく,I (used by males)
-,ゼロ,zero
-,だから,"so,therefore"
-夏休み,なつやすみ,summer holiday
-遊ぶ,あそぶ,"to play,to make a visit"
-学校,がっこう,school
-,ポスト,post
-今朝,けさ,this morning
-背広,せびろ,business suit
-治る,なおる,"to be cured,to heal"
-曇り,くもり,cloudy weather
-,たいへん,difficult situation
-差す,さす,"to stretch out hands,to raise an umbrella"
-駅,えき,station
-,ノート,"notebook,exercise book"
+kanji,hiragana,english,kanji_required
+漢字,かんじ,Chinese character,x
+差す,さす,"to stretch out hands,to raise an umbrella",
+来週,らいしゅう,next week,x
+,どの,which,
+閉める,しめる,to close something,x
+運ぶ,はこぶ,to transport,
+中,なか,middle,x
+料理,りょうり,cuisine,x
+火曜日,かようび,Tuesday,x
+切手,きって,postage stamp,
+合う,あう,to match,x
+世界,せかい,the world,
+店,みせ,shop,
+頭,あたま,head,x
+置く,おく,to put,
+辛い,からい,spicy,
+砂糖,さとう,sugar,
+,おっしゃる,(respectful) to say,
+番組,ばんぐみ,television or radio program,
+仕方,しかた,method,
+,ピアノ,piano,
+十日,とおか,"ten days,the tenth day",x
+下宿,げしゅく,lodging,
+私,わたくし,"(humble) I,myself",x
+事務所,じむしょ,office,

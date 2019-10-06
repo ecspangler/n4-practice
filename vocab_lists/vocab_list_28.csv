@@ -1,32 +1,26 @@
-kanji,hiragana,english
-,ニュース,news
-玄関,げんかん,entry hall
-歴史,れきし,history
-お酒,おさけ,"alcohol, rice wine"
-,その,that
-変,へん,strange
-展覧会,てんらんかい,exhibition
-五,ご,five
-静か,しずか,quiet
-,くれる,to give
-晴れる,はれる,to be sunny
-上着,うわぎ,jacket
-太る,ふとる,to become fat
-,ページ,page
-低い,ひくい,"short,low"
-訪ねる,たずねる,to visit
-発音,はつおん,pronunciation
-今週,こんしゅう,this week
-下,した,below
-横,よこ,"beside,side,width"
-,または,"or,otherwise"
-降り出す,ふりだす,to start to rain
-開く,ひらく,to open an event
-,どうも,thanks
-,ナイフ,knife
-以外,いがい,with the exception of
-乗る,のる,"to get on,to ride"
-万,まん,ten thousand
-知らせる,しらせる,to notify
-留守,るす,absence
-,あ,Ah
+kanji,hiragana,english,kanji_required
+橋,はし,bridge,
+所,ところ,place,x
+月曜日,げつようび,Monday,x
+,アジア,Asia,
+聞こえる,きこえる,to be heard,
+一生懸命,いっしょうけんめい,with utmost effort,
+為,ため,in order to,
+金曜日,きんようび,Friday,s
+着る,きる,to put on from the shoulders down,x
+旅館,りょかん,Japanese hotel,
+住所,じゅうしょ,"an address,a residence",
+医者,いしゃ,medical doctor,
+役に立つ,やくにたつ,to be helpful,
+丁寧,ていねい,polite,
+遅い,おそい,"late,slow",x
+下りる,おりる,"to get off, to descend",
+熱い,あつい,hot to the touch,x
+,そば,"near,beside",
+二日,ふつか,"two days, second day of the month",x
+,すぐに,instantly,
+寺,てら,temple,
+話す,はなす,to speak,x
+,シャツ,shirt,
+,まっすぐ,"straight ahead,direct",
+倒れる,たおれる,to break down,

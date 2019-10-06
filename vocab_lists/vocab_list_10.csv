@@ -1,33 +1,26 @@
-kanji,hiragana,english
-理由,りゆう,reason
-冷たい,つめたい,cold to the touch
-辞書,じしょ,dictionary
-差し上げる,さしあげる,(polite) to give
-借りる,かりる,to borrow
-話,はなし,"talk,story"
-形,かたち,shape
-先週,せんしゅう,last week
-重い,おもい,heavy
-地図,ちず,map
-走る,はしる,to run
-揺れる,ゆれる,"to shake,to sway"
-声,こえ,voice
-砂糖,さとう,sugar
-,やっと,at last
-適当,てきとう,suitability
-泳ぐ,およぐ,to swim
-磨く,みがく,"to brush teeth, to polish"
-,おもしろい,interesting
-出す,だす,to put out
-着く,つく,to arrive at
-山,やま,mountain
-暖かい,あたたかい,warm
-戦争,せんそう,war
-空気,くうき,"air,atmosphere"
-,あれ,that
-通う,かよう,to commute
-,この,this
-,これから,after this
-,あかちゃん,baby
-去年,きょねん,last year
-人形,にんぎょう,"doll, figure"
+kanji,hiragana,english,kanji_required
+終わり,おわり,the end,
+道具,どうぐ,"tool,means",
+上手,じょうず,skillful,x
+,あなた,you,
+意味,いみ,meaning,
+鏡,かがみ,mirror,
+安い,やすい,cheap,
+駐車場,ちゅうしゃじょう,parking lot,
+赤い,あかい,red,x
+,いつ,when,
+鼻,はな,nose,
+午後,ごご,afternoon,x
+棚,たな,shelves,
+脱ぐ,ぬぐ,to take off clothes,
+別れる,わかれる,to separate,
+早い,はやい,early,x
+豚肉,ぶたにく,pork,x
+暇,ひま,free time,
+以内,いない,within,x
+別,べつ,different,
+旅行,りょこう,travel,x
+方,かた,"person, way of doing",x
+生産,せいさん・する,to produce,
+,きれい,"pretty,clean",
+田舎,いなか,countryside,

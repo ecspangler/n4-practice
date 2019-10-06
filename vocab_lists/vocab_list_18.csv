@@ -1,32 +1,26 @@
-kanji,hiragana,english
-,ああ,like that
-具合,ぐあい,"condition,health"
-枝,えだ,"branch, twig"
-外,そと,outside
-歯,は,tooth
-,ガソリンスタンド,petrol station
-牛乳,ぎゅうにゅう,milk
-熱い,あつい,hot to the touch
-小説,しょうせつ,novel
-,タイプ,"type,style"
-,コート,"coat,tennis court"
-待つ,まつ,to wait
-沸かす,わかす,"to boil,to heat"
-見せる,みせる,to show
-夕方,ゆうがた,evening
-,オートバイ,motorcycle
-,コップ,a glass
-居る,いる,"to be, to have (used for people and animals)"
-お嬢さん,おじょうさん,young lady
-便利,べんり,"useful, convenient"
-味噌,みそ,"miso, soybean paste"
-お茶,おちゃ,green tea
-緑,みどり,green
-,すぐに,instantly
-昼休み,ひるやすみ,noon break
-毎週,まいしゅう,every week
-学生,がくせい,student
-家,いえ,house
-置く,おく,to put
-日,ひ,"day, sun"
-危険,きけん,danger
+kanji,hiragana,english,kanji_required
+忙しい,いそがしい,"busy,irritated",x
+,ほとんど,mostly,
+近所,きんじょ,neighbourhood,
+家内,かない,housewife,
+,ソフト,soft,
+自分,じぶん,oneself,x
+大分,だいぶ,greatly,
+決る,きまる,to be decided,
+低い,ひくい,"short,low",
+洗濯,せんたく,washing,x
+困る,こまる,to be worried,
+帰る,かえる,to go back,x
+途中,とちゅう,on the way,
+林,はやし,"woods,forester",
+僕,ぼく,I (used by males),
+止む,やむ,to stop,
+大人,おとな,adult,x
+受ける,うける,to take a lesson or test,
+動く,うごく,to move,x
+公務員,こうむいん,"civil servant, government worker",
+居る,いる,"to be, to have (used for people and animals)",x
+米,こめ,uncooked rice,
+生きる,いきる,to live,x
+寄る,よる,to visit,
+安全,あんぜん,safety,

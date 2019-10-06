@@ -1,33 +1,26 @@
-kanji,hiragana,english
-,トイレ,toilet
-大丈夫,だいじょうぶ,all right
-植える,うえる,"to plant, to grow"
-,セーター,"sweater,jumper"
-,ガス,gas
-読む,よむ,to read
-席,せき,seat
-散歩,さんぽする,to stroll
-決る,きまる,to be decided
-,アルコール,alcohol
-鼻,はな,nose
-空,そら,sky
-,ギター,guitar
-引っ越す,ひっこす,to move house
-神社,じんじゃ,Shinto shrine
-,テープレコーダー,tape recorder
-,けんか・する,to quarrel
-前,まえ,before
-勝つ,かつ,to win
-動く,うごく,to move
-公務員,こうむいん,"civil servant, government worker"
-仕方,しかた,method
-御主人,ごしゅじん,(honorable) your husband
-,アジア,Asia
-空く,あく,"to open, to become empty"
-,それ,that
-暇,ひま,free time
-研究,けんきゅう,research
-通る,とおる,to go through
-何,なん/なに,what
-倍,ばい,double
-字引,じびき,dictionary
+kanji,hiragana,english,kanji_required
+建てる,たてる,to build,
+,エスカレーター,escalator,
+形,かたち,shape,
+戸,と,Japanese style door,
+寂しい,さびしい,lonely,
+真中,まんなか,middle,
+集る,あつまる,to gather,x
+使う,つかう,to use,x
+用,よう,use,
+煩い,うるさい,"noisy,annoying",
+見つける,みつける,to discover,
+暖かい,あたたかい,warm,x
+一度,いちど,once,x
+大使館,たいしかん,embassy,x
+年,とし,year,x
+,あれ,that,
+,ガス,gas,
+短い,みじかい,short,x
+下着,したぎ,underwear,
+,どちら,which of two,
+昨日,きのう,yesterday,x
+味噌,みそ,"miso, soybean paste",
+呼ぶ,よぶ,"to call out,to invite",
+字引,じびき,dictionary,x
+新しい,あたらしい,new,x

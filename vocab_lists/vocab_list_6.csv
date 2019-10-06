@@ -1,33 +1,26 @@
-kanji,hiragana,english
-踏む,ふむ,to step on
-田舎,いなか,countryside
-終わり,おわり,the end
-,なるべく,as much as possible
-場所,ばしょ,location
-石,いし,stone
-結婚,けっこん,marriage
-喫茶店,きっさてん,coffee lounge
-右,みぎ,right side
-指輪,ゆびわ,a ring
-二十日,はつか,"twenty days,twentieth"
-背中,せなか,back of the body
-受付,うけつけ,receipt
-,スクリーン,screen
-医学,いがく,medical science
-,はし,chopsticks
-病気,びょうき,illness
-,りっぱ,splendid
-非常に,ひじょうに,extremely
-棚,たな,shelves
-時計,とけい,"watch,clock"
-長い,ながい,long
-,ちゃわん,rice bowl
-点,てん,"point,dot"
-赤,あか,red
-八つ,やっつ,eight
-,ポケット,pocket
-寂しい,さびしい,lonely
-向かう,むかう,to face
-鳴く,なく,"animal noise. to chirp, roar or croak etc."
-亡くなる,なくなる,to die
-,すっかり,completely
+kanji,hiragana,english,kanji_required
+涼しい,すずしい,refreshing,
+木,き,"tree,wood",x
+頼む,たのむ,to ask,
+科学,かがく,science,
+,パソコン,personal computer,
+,いくつ,"how many?,how old?",
+休み,やすみ,"rest,holiday",x
+五日,いつか,"five days, fifth day",x
+急,きゅう,"urgent, steep",
+外国,がいこく,foreign country,x
+,ステーキ,steak,
+工業,こうぎょう,the manufacturing industry,
+押す,おす,"to push, to stamp something",
+,ガラス,a glass pane,
+用事,ようじ,things to do,
+指,ゆび,finger,
+,あんな,such,
+,カメラ,camera,
+,オートバイ,motorcycle,
+,パート,part time,
+調べる,しらべる,to investigate,
+一月,ひとつき,one month,x
+開く,あく,"to open,to become open",x
+銀行,ぎんこう,bank,x
+受付,うけつけ,receipt,

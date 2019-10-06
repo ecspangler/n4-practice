@@ -1,32 +1,26 @@
-kanji,hiragana,english
-比べる,くらべる,to compare
-毎朝,まいあさ,every morning
-,ぶどう,grapes
-朝御飯,あさごはん,breakfast
-指,ゆび,finger
-,カレー,curry
-新しい,あたらしい,new
-お礼,おれい,expression of gratitude
-会話,かいわ,conversation
-,など,et cetera
-,しっかり,"firmly,steadily"
-,それに,moreover
-砂,すな,sand
-明日,あす・あした,tomorrow
-,そんなに,"so much,like that"
-冷える,ひえる,to grow cold
-,ファックス,fax
-会社,かいしゃ,company
-毎晩,まいばん,every night
-以下,いか,less than
-会う,あう,to meet
-,ソフト,soft
-月曜日,げつようび,Monday
-,ペット,pet
-,チェック・する,to check
-畳,たたみ,Japanese straw mat
-包む,つつむ,to wrap
-先,さき,"the future,previous"
-,メートル,metre
-昼,ひる,"noon, daytime"
-聞こえる,きこえる,to be heard
+kanji,hiragana,english,kanji_required
+,いろいろ,various,
+普通,ふつう,"usually, or a train that stops at every station",
+賑やか,にぎやか,"bustling,busy",
+夏休み,なつやすみ,summer holiday,x
+,ギター,guitar,
+,いらっしゃる,"(respectful) to be, to come or to go",
+,シャワー,shower,
+正しい,ただしい,correct,
+温い,ぬるい,luke warm,
+冷たい,つめたい,cold to the touch,
+歴史,れきし,history,
+,ホテル,hotel,
+細かい,こまかい,"small, fine",
+,スーツケース,suitcase,
+発音,はつおん,pronunciation,
+千,せん,thousand,
+,アクセサリー,accessory,
+,さあ,well…,
+,これから,after this,
+拾う,ひろう,"to pick up,to gather",
+三,さん,three,x
+今日,きょう,today,x
+手袋,てぶくろ,glove,
+昼間,ひるま,"daytime,during the day",
+会話,かいわ,conversation,

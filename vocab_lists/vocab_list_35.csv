@@ -1,32 +1,26 @@
-kanji,hiragana,english
-書く,かく,to write
-,あなた,you
-天気予報,てんきよほう,weather forecast
-以内,いない,within
-中学校,ちゅうがっこう,"junior high school,middle school"
-国,くに,country
-花瓶,かびん,a vase
-水曜日,すいようび,Wednesday
-,ボタン,button
-切符,きっぷ,ticket
-大体,だいたい,generally
-,しょうゆ,soy sauce
-町,まち,"town,city"
-付く,つく,to be attached
-,テーブル,table
-,ほとんど,mostly
-工場,こうじょう/こうば,"factory,plant,mill,workshop"
-以上,いじょう,"more than, this is all"
-味,あじ,flavour
-,すると,then
-進む,すすむ,to make progress
-掃除,そうじする,"to clean, to sweep"
-,まずい,unpleasant
-庭,にわ,garden
-申す,もうす,"(humble) to be called,to say"
-死ぬ,しぬ,to die
-短い,みじかい,short
-動物園,どうぶつえん,zoo
-お土産,おみやげ,souvenir
-乗り物,のりもの,vehicle
-曲る,まがる,"to turn,to bend"
+kanji,hiragana,english,kanji_required
+女性,じょせい,woman,
+折る,おる,to break or to fold,
+一人,ひとり,one person,x
+電灯,でんとう,electric light,
+,ベッド,bed,
+買い物,かいもの,shopping,x
+,テープ,tape,
+車,くるま,"car,vehicle",x
+医学,いがく,medical science,x
+玄関,げんかん,entry hall,
+,プレゼント,present,
+厳しい,きびしい,strict,
+生徒,せいと,pupil,
+糸,いと,thread,
+売る,うる,to sell,
+,みんな,everyone,
+人形,にんぎょう,"doll, figure",
+経済,けいざい,"finance,economy",
+原因,げんいん,"cause,source",
+浅い,あさい,"shallow, superficial",
+泣く,なく,to weep,
+行く,ゆく,to go,x
+覚える,おぼえる,to remember,
+砂,すな,sand,
+閉まる,しまる,"to close,to be closed",x

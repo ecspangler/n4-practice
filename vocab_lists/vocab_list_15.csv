@@ -1,32 +1,26 @@
-kanji,hiragana,english
-,アパート,apartment
-関係,かんけい,relationship
-車,くるま,"car,vehicle"
-最初,さいしょ,"beginning,first"
-御飯,ごはん,"cooked rice,meal"
-高校,こうこう,high school
-,どう,"how,in what way"
-住所,じゅうしょ,"an address,a residence"
-思う,おもう,"to think, to feel"
-間,あいだ,a space
-虫,むし,insect
-毎月,まいげつ/まいつき,every month
-多い,おおい,many
-親,おや,parents
-電気,でんき,"electricity,electric light"
-二十歳,はたち,"20 years old,20th year"
-作る,つくる,to make
-米,こめ,uncooked rice
-,そうして/そして,and
-五つ,いつつ,five
-丸い/円い,まるい,"round,circular"
-春,はる,spring
-決して,けっして,never
-中,なか,middle
-入れる,いれる,to put in
-売り場,うりば,place where things are sold
-,たまに,occasionally
-,おなか,stomach
-風邪,かぜ,a cold
-,そっち,over there
-食堂,しょくどう,dining hall
+kanji,hiragana,english,kanji_required
+機会,きかい,opportunity,
+大事,だいじ,"important,valuable,serious matter",
+一昨日,おととい,day before yesterday,x
+次,つぎ,next,
+庭,にわ,garden,
+お祝い,おいわい,congratulation,
+,はい,yes,
+技術,ぎじゅつ,"art,technology,skill",
+水道,すいどう,water supply,
+曲る,まがる,"to turn,to bend",
+忘れる,わすれる,to forget,x
+最近,さいきん,"latest,nowadays",
+,それ,that,
+貿易,ぼうえき,trade,
+大きな,おおきな,big,x
+特急,とっきゅう,limited express train (faster than an express train),
+,あ,Ah,
+電気,でんき,"electricity,electric light",x
+集める,あつめる,to collect something,x
+隅,すみ,"corner,nook",
+遊ぶ,あそぶ,"to play,to make a visit",
+港,みなと,harbour,
+悲しい,かなしい,sad,
+,ストーブ,heater,
+以上,いじょう,"more than, this is all",x

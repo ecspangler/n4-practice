@@ -1,32 +1,26 @@
-kanji,hiragana,english
-,けれど/けれども,however
-行う,おこなう,to do
-誰,だれか,somebody
-子,こ,child
-無くす,なくす,to lose something
-拾う,ひろう,"to pick up,to gather"
-建てる,たてる,to build
-行く,ゆく,to go
-急ぐ,いそぐ,to hurry
-,あの,um...
-,もし,if
-交番,こうばん,police box
-小さい,ちいさい,little
-伯父/叔父,おじいさん,"grandfather,male senior citizen"
-十,じゅう とお,ten
-お祭り,おまつり,festival
-飾る,かざる,to decorate
-生徒,せいと,pupil
-,おいでになる,(respectful) to be
-,つもり,intention
-世界,せかい,the world
-,とうとう,"finally, after all"
-弱い,よわい,weak
-,パン,bread
-試合,しあい,"match,game"
-毎日,まいにち,every day
-二日,ふつか,"two days, second day of the month"
-門,もん,gate
-,ピアノ,piano
-撮る,とる,to take a photo or record a film
-少ない,すくない,a few
+kanji,hiragana,english,kanji_required
+八日,ようか,"eight days, eighth day of the month",x
+島,しま,island,
+植える,うえる,"to plant, to grow",
+一日,ついたち,first of month,x
+会社,かいしゃ,company,x
+忘れ物,わすれもの,lost article,
+,たいてい,usually,
+,この,this,
+時代,じだい,era,
+都合,つごう,"circumstances,convenience",
+卒業,そつぎょう,graduation,
+甘い,あまい,sweet,x
+座る,すわる,to sit,
+,テキスト,"text,text book",
+,スーツ,suit,
+夕方,ゆうがた,evening,x
+,アナウンサー,announcer,
+朝御飯,あさごはん,breakfast,x
+,どれ,which (of three or more),
+文章,ぶんしょう,"sentence,text",x
+起す,おこす,to wake,x
+音,おと,"sound, note",x
+交番,こうばん,police box,
+引く,ひく,to pull,x
+鉛筆,えんぴつ,pencil,
